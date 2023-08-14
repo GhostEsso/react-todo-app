@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+.Todo-container {
+  background-color: rgb(244, 244, 245);
+  margin: 5% 20%;
+}
