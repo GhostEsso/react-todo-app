@@ -1,0 +1,15 @@
+.Header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.Header h1 {
+    text-align: center;
+    color: #06011a;
+}
+.Header p {
+    font-size: 18px;
+    text-align: center;
+    padding: 2% 0;
+}
