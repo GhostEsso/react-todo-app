@@ -166,7 +166,7 @@ To check for js errors run:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!!!
 
 Feel free to check the [git@github.com:GhostEsso/react-todo-app.git](issue page).
 
