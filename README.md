@@ -89,8 +89,8 @@ Open terminal on the same folder of the project and run:
 Clone this repository to your desired folder:
 
 ```sh
-  git https://github.com/AbbasSarwar/React-Practice.git
-  cd React-Practice
+  git clone git@github.com:GhostEsso/react-todo-app.git
+  cd react-todo-app
 ```
 
 ### Install
@@ -144,12 +144,13 @@ To check for js errors run:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="author"></a>
 
-👤 **Muhammad Zunair khan**
-- GitHub: [@AbbasSarwar](https://github.com/AbbasSarwar)
-- Twitter: [@Abbas_sDev](https://twitter.com/Abbas_sDev)
-- LinkedIn: [Abbas-Sarwar](https://www.linkedin.com/in/abbas-sarwar-4a0b16257/)
+👤 **Essohanam TAMBANA**
+
+- GitHub: [@GhostEsso](https://github.com/GhostEsso)
+- Twitter: [@TambanaEssohanam](https://twitter.com/TambanaEssohana)
+- LinkedIn: [@TambanaEssohanam](https://www.linkedin.com/in/essohanam-tambana-62aa081a1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +168,7 @@ To check for js errors run:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/AbbasSarwar/React-Practice.git](issue page).
+Feel free to check the [git@github.com:GhostEsso/react-todo-app.git](issue page).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
